@@ -1,0 +1,11 @@
+{
+  "server": "localhost",
+  "database": "development",
+  "userName": "DESKTOP-GFVU8EC",
+  "password": "",
+  "port": 1433,
+  "options": {
+    "encrypt": true,
+    "trustServerCertificate": true
+  }
+}
